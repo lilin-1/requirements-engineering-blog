@@ -1,2 +1,7 @@
-# requirements-engineering-blog
-requirements-engineering-blog about fire fore-warning system
+# 技术博客课程
+
+## 项目简介
+本项目是北京理工大学软件工程专业软件需求课程第八组的技术博客。
+---
+
+创建日期: 2025-03-14
